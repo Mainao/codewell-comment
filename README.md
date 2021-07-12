@@ -1,12 +1,10 @@
 
 # Codewell Challenge - Comment Module
 
-A comment box with nested replies.
+A comment box with nested replies built using HTML and Tailwind CSS
 
-### Tech used
-
-HTML
-Tailwind CSS
+### Deployment
+Deployed on Netlify. [Click here to visit](https://commentmodule.netlify.app/)
 
 ### Screenshot
 
